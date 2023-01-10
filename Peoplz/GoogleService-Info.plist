@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>937007816838-2r8n1ggpe6nduam3tk24c1g6epsvoiqi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.937007816838-2r8n1ggpe6nduam3tk24c1g6epsvoiqi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWx5m0Uq_DyT_9UwwMUG2By9SO8jHK2vM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>937007816838</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.netaxis.Peoplz</string>
+	<key>PROJECT_ID</key>
+	<string>peoplz-2cde9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>peoplz-2cde9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:937007816838:ios:5c0ca5a55b1eb0a0ffb107</string>
+	<key>DATABASE_URL</key>
+	<string>https://peoplz-2cde9-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

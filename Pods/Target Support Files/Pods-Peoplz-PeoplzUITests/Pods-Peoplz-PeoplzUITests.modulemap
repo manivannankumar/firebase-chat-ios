@@ -1,0 +1,6 @@
+framework module Pods_Peoplz_PeoplzUITests {
+  umbrella header "Pods-Peoplz-PeoplzUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
